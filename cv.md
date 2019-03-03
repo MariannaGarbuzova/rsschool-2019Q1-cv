@@ -1,7 +1,7 @@
 #  Marianna Garbuzova
 Phone number:  +375 29 809 22 31
 e-mail: vesna09@tut.by
-
+### Summary: I woud like making a  layout. I have studied it independently and attended courses. I understand that a modern pages need a live, interactive style, so I realized to study and practice Java Script. So I came to study the course .
 ### Skills: 
 SVC: Git, HTML5/CSS, JS.
 ###  Code: 
